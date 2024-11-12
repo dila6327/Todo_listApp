@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+  }
+  
+form{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+  }
+  .include{
+    font-size: 16px;
+  }
+  .submit
+  {
+    border-radius: 4px;
+    height: 25px;
+    width:84px ;
+    background-color: bisque;
+    color:red;
+  }
